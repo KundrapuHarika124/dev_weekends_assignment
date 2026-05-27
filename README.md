@@ -1,6 +1,7 @@
 # Tip Calculator / Bill Splitter
 
 A React + Vite + Tailwind CSS frontend project for splitting bills and calculating tips.
+<img width="1540" height="823" alt="Screenshot 2026-05-27 224452" src="https://github.com/user-attachments/assets/10af32da-e0c3-4813-b53c-80a40e3fd77c" />
 
 ## Live Demo
 
