@@ -2,6 +2,10 @@
 
 A React + Vite + Tailwind CSS frontend project for splitting bills and calculating tips.
 
+## Live Demo
+
+https://tipcalculator000.netlify.app/
+
 ## Setup
 
 1. Install dependencies.
@@ -19,4 +23,13 @@ npm run dev
 - Number of people input with validation
 - Live tip, total, and per-person calculations
 - Responsive two-column layout on desktop and stacked layout on mobile
-# dev_weekends_assignment
+
+## Deployment (Netlify)
+
+This project is configured for Netlify with:
+
+- Build command: `npm run build`
+- Publish directory: `dist`
+- SPA redirect support to `index.html`
+
+If you connect this repository to Netlify, these settings are picked up from `netlify.toml`.
